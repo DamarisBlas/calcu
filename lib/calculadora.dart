@@ -1,4 +1,4 @@
-import 'package:flutter/cupertino.dart';
+/*import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 
@@ -139,9 +139,8 @@ Widget build(BuildContext context) {
 
 int n1 = 0;
 int n2= 0;
-int n3=0;
- // int n1 = 0;
- // int n2= 0;
+
+
 String resultado = "";
 String text = "";
 String operacion = "";
@@ -182,3 +181,4 @@ void calculate(String btnText) {
   });
 }
 }
+*/
